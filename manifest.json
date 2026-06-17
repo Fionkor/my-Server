@@ -1,9 +1,10 @@
 {
-  "files": [
+  "version": "1.0.0",
+  "mods": [
     {
-      "path": "config/modpack-updater.yaml",
-      "hash": "1234567890abcdef1234567890abcdef",
-      "size": 250
+      "name": "mod-name",
+      "fileName": "mod-name.jar",
+      "downloadUrl": "https://github.com/Fionkor/my-Server/raw/main/mods/mod-name.jar"
     }
   ]
 }
