@@ -1,10 +1,15 @@
 {
-  "version": "1.0.0",
+  "schemaVersion": 1,
   "mods": [
     {
-      "name": "mod-name",
-      "fileName": "mod-name.jar",
-      "downloadUrl": "https://github.com/Fionkor/my-Server/raw/main/mods/mod-name.jar"
+      "name": "mod-name-1",
+      "fileName": "mod-file-1.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Fionkor/my-Server/main/mods/mod-file-1.jar"
+    },
+    {
+      "name": "mod-name-2",
+      "fileName": "mod-file-2.jar",
+      "downloadUrl": "https://raw.githubusercontent.com/Fionkor/my-Server/main/mods/mod-file-2.jar"
     }
   ]
 }
