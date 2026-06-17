@@ -1,5 +1,8 @@
 {
-  "version": 1,
+  "modpackName": "my-Server",
+  "modpackAuthor": "Fionkor",
+  "version": "1.0.0",
+  "type": "release",
   "files": [
     {
       "path": "config/modpack-updater.yaml",
