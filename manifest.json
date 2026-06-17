@@ -1,11 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "my-Server",
   "files": [
     {
-      "name": "alexsmobs-1.22.17.jar",
-      "url": "https://raw.githubusercontent.com/Fionkor/my-Server/main/mods/alexsmobs-1.22.17.jar",
-      "hash": ""
+      "path": "config/modpack-updater.yaml",
+      "hash": "1234567890abcdef1234567890abcdef",
+      "size": 250
     }
   ]
 }
