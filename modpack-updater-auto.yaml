@@ -1,0 +1,5 @@
+schemaVersion: 1
+modpackName: "my-Server"
+modpackAuthor: "Fionkor"
+versionCheckerUrl: "https://raw.githubusercontent.com/Fionkor/my-Server/main/modpack-manifest.json"
+fileBaseUrl: "https://raw.githubusercontent.com/Fionkor/my-Server/main/"
