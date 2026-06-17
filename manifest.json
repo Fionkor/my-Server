@@ -1,11 +1,9 @@
 {
-  "version": "1.0.0",
   "files": [
     {
       "path": "config/modpack-updater.yaml",
       "hash": "1234567890abcdef1234567890abcdef",
-      "size": 250,
-      "url": "https://raw.githubusercontent.com/Fionkor/my-Server/main/config/modpack-updater.yaml"
+      "size": 250
     }
   ]
 }
