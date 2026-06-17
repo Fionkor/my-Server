@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "files": []
+  "files": [
+    {
+      "path": "config/modpack-updater.yaml",
+      "hash": "1234567890abcdef",
+      "size": 250
+    }
+  ]
 }
