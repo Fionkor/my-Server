@@ -1,12 +1,12 @@
 {
+  "schemaVersion": 1,
   "modpackName": "my-Server",
   "modpackAuthor": "Fionkor",
-  "version": "1.0.0",
-  "type": "release",
+  "modpackVersion": "1.0.0",
   "files": [
     {
       "path": "config/modpack-updater.yaml",
-      "hash": "1234567890abcdef",
+      "hash": "1234567890abcdef1234567890abcdef",
       "size": 250
     }
   ]
